@@ -6,7 +6,7 @@ This repository contains the code used in the paper under review 'Utility-based 
 
 For a quick overview of our general framework with animated explanations, visit our [webpage](https://teacher-with-tom.github.io./).
 
-## General frameworl ⚙️
+## General framework ⚙️
 
 In this paper, we introduce machine teachers equipped with a Bayesian Theory of Mind (ToM) model of the learner. The teacher is able to fits its ToM model to an observed learner and adapt the demonstration to the learner's goal and sensory capacity.
 
